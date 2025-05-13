@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.model_selection import train_test_split
 
-# import
+# import file
 
 loan_data_backup = pd.read_csv('loan_data.csv', dtype={'desc': str})
 loan_data = loan_data_backup.copy()
