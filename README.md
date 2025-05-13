@@ -1,2 +1,2 @@
-# projects
+# About me
 Economist with a strong background in fundamental analysis, with a focus on alternative investments. I specialize in credit analysis and credit risk assessment, leveraging experience across equity research projects, investment management firms, and surety bond underwriting. My work is guided by a deep understanding of economic fundamentals and a rigorous, data-driven approach to financial analysis.
