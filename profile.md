@@ -13,9 +13,7 @@ Financial Analyst and Economist specialized in equity, credit, credit risk, fina
   <img alt="SQL" title="SQL" width="30px" style="vertical-align: middle; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="Power BI" title="Power BI" width="30px" style="vertical-align: middle; margin-right: 10px;" src="https://img.icons8.com/color/48/000000/power-bi.png" />
 </p>
-
 <br/>
-
 ---
 
 ### 🔗 Projects
