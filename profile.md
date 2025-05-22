@@ -7,11 +7,12 @@ Financial Analyst and Economist specialized in equity, credit, credit risk, fina
 ---
 
 ### 🛠️ Tools and Technologies
-
-<img alt="VBA" title="Visual Basic" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" /> 
-<img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img alt="Power BI" title="Power BI" width="30px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+<p>
+  <img alt="VBA" title="Visual Basic" width="30px" style="vertical-align: middle; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" /> 
+  <img alt="Python" title="Python" width="30px" style="vertical-align: middle; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="SQL" title="SQL" width="30px" style="vertical-align: middle; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Power BI" title="Power BI" width="30px" style="vertical-align: middle; margin-right: 10px;" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+</p>
 
 <br/>
 
