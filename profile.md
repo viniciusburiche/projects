@@ -25,11 +25,6 @@ Financial Analyst and Economist specialized in equity, credit, credit risk, fina
 ### 📊 GitHub Stats
 
 <img 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api?username=viniciusburiche&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-/>
-<img 
   alt="Top Languages" 
   height="200" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusburiche&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
